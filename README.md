@@ -48,8 +48,7 @@ def max_marks(list1):
             max=i
     return max
 ~~~
-## Sample Input and Output
-![output](./img/max_marks1.jpg) 
+
 
 ## Output:
 ![Screenshot 2023-12-21 211536](https://github.com/THARUNDT/FindMaximum/assets/144871537/ab43b5c7-06fa-4aa2-93c7-dfb96232e3f2)
