@@ -12,7 +12,6 @@ Use the sort() function or max() function or use the for loop to find the maximu
 ### Step3:
 Return the maximum value
 ## Program:
-
 i)	# To find the maximum of marks using the list method sort.
 ''' 
 # Program to mark the maximum of marks using the list method sort
@@ -48,8 +47,6 @@ def max_marks(list1):
             max=i
     return max
 ~~~
-
-
 ## Output:
 ![Screenshot 2023-12-21 211536](https://github.com/THARUNDT/FindMaximum/assets/144871537/ab43b5c7-06fa-4aa2-93c7-dfb96232e3f2)
 ![Screenshot 2023-12-21 211554](https://github.com/THARUNDT/FindMaximum/assets/144871537/d3350efe-ae47-44f8-8f36-72ddf00f6dfe)
